@@ -1,5 +1,13 @@
+
 string = 'python'
+length = 0
 
-length = len(string)
 
-print('The length of the string is:', length)
+def function():
+
+    length = len(string)
+
+    print('The length of the string is:', length)
+
+
+function()
